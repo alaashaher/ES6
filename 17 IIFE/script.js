@@ -14,7 +14,7 @@ var greeting = (()=>{
     console.log(`Hey, that's ${name}`);
   }();
 });
-
+   
 
 console.log(greeting.greet("Bob"));
 // Hey, that's Bob
